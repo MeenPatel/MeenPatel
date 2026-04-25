@@ -14,8 +14,6 @@ I'm an Electronics and Communication Engineering graduate currently pursuing an 
 
 - 🎓 **M.Sc. Autonomy Technologies** — Friedrich-Alexander-Universität (2026–2028)
 - 🎓 **B.Tech Electronics & Communication Engineering** — Nirma University (2021–2025)
-- 💼 Currently: **Junior Embedded Engineer** at NXON AI Pvt. Ltd.
-- 🌍 Based in Germany
 
 ---
 
