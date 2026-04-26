@@ -135,7 +135,6 @@ I'm an Electronics and Communication Engineering graduate currently pursuing an 
 
 ## 📊 GitHub Stats
 
-![Meen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MeenPatel&show_icons=true&theme=default&hide_border=true)
 ![Meen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MeenPatel&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeenPatel&layout=compact&theme=default&hide_border=true)
 
