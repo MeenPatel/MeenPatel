@@ -23,7 +23,7 @@ I'm an Electronics and Communication Engineering graduate currently pursuing an 
 `Embedded C` `Embedded Systems` `Circuit Design` `Electronic Circuit Design` `Firmware` `Digital Electronics` `8051 Microcontroller` `Arduino` `MASM` `Assembly Language`
 
 ### Software & Tools
-`Python` `C (83%)` `C++ (70%)` `Image Processing` `MATLAB` `ModelSim` `Proteus` `Keil`
+`Python` `C` `C++` `Image Processing` `MATLAB` `ModelSim` `Proteus` `Keil`
 
 ### Domain Knowledge
 `IoT` `Industrial Automation` `Communication Protocols` `Bluetooth Low Energy (BLE)` `NFC` `Wi-Fi (IEEE 802.11)` `RTOS`
